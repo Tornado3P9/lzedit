@@ -1,0 +1,8 @@
+[package]
+name = "lesezeichen-editor"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+gio = "0.20.5"
+gtk4 = "0.9.3"
