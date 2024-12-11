@@ -1,5 +1,10 @@
 # Lesezeichen Editor
 
+Dependencies for Ubuntu:  
+```bash
+sudo apt install libgtk-4-dev build-essential
+```
+
 I initially developed the application in Pascal with the Lazarus IDE back in 2017.
 Since then, it has operated flawlessly as my daily tool, continuing to be the best solution for my needs.
 Although it's straightforward, I realized I wasn't taking advantage of the subtle features, such as hidden menus, quality-of-life enhancements, and text editor integration.
@@ -23,3 +28,4 @@ On the other hand, today's browsers have perfected handling big websites. So let
 Now I can have tens of thousands of bookmarks without any noticeable performance hit. At the same time, I delete any addons or bookmarks in my browser that might slow down the user experience.
 If possible, I will recompile my browser with the least possible number of features. Finally I will have just one bookmark in my browser's toolbar, and that's the html-bookmark-list.  
 It's convenient to copy the file to a USB drive, allowing me to carry it with me and access my bookmarks on any PC with a USB port (e.g., university computer lab, a friend's computer, etc.) even without an internet connection.
+Of course, the bookmark file can still be imported directly back into the web browser.
